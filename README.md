@@ -1,1 +1,2 @@
-# team-project-practice (версия С)
+# Team Project (версия Б и версия С)
+Практическая работа по Git и GitHub команды.
